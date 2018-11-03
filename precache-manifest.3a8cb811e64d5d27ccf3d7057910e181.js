@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/luigy.machaca.github.io/static/js/runtime~main.0524e6f2.js"
   },
   {
-    "revision": "257a4aad75181590e869",
-    "url": "/luigy.machaca.github.io/static/js/main.257a4aad.chunk.js"
+    "revision": "fc9a177bec1d162c6bfb",
+    "url": "/luigy.machaca.github.io/static/js/main.fc9a177b.chunk.js"
   },
   {
     "revision": "a700ff875c24dcc7b8f8",
     "url": "/luigy.machaca.github.io/static/js/1.a700ff87.chunk.js"
   },
   {
-    "revision": "257a4aad75181590e869",
+    "revision": "fc9a177bec1d162c6bfb",
     "url": "/luigy.machaca.github.io/static/css/main.a33771b6.chunk.css"
   },
   {
-    "revision": "7238b69f1b2b024bf3d7c4b9c64307b8",
+    "revision": "4e8d1e92581b3fbd6e047a52e69ac05a",
     "url": "/luigy.machaca.github.io/index.html"
   }
 ];
